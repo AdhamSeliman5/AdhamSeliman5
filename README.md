@@ -37,16 +37,16 @@ Demand Forecasting).
 - Managed resources efficiently and trained in security strategies and organizational discipline
 
 ## 🛠 Skills
-  ### Python for Data Analysis
-  ### Power BI & Excel (Power Query, Data Model)
-  ### DAX for Power BI
-  ### SQL for Data Manipulation
-  ### MSSQL Server
-  ### Jupyter Notebook
-  ### Statistics & Predictive Modeling
-  ### Linear Algebra, Calculus I & II
-  ### Graphic Design
-  ### Computer Software & Application Knowledge
+  - Python for Data Analysis
+  - Power BI & Excel (Power Query, Data Model)
+  - DAX for Power BI
+  - SQL for Data Manipulation
+  - MSSQL Server
+  - Jupyter Notebook
+  - Statistics & Predictive Modeling
+  - Linear Algebra, Calculus I & II
+  - Graphic Design
+  - Computer Software & Application Knowledge
 
 ## 📚 Certifications
 -  Data science and machine learning - Machinfy
