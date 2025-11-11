@@ -5,10 +5,10 @@
   </a>
 </p>
 
-<h3 align="center">Data Analyst with a strong foundation in mathematics, statistics, and data visualization, experienced in sales,
-marketing, and e-commerce analysis. Skilled in leveraging data-driven insights to optimize business strategies,
-enhance customer engagement, and drive revenue growth. Passionate about predictive modeling, business
-intelligence tools, and statistical analysis to support strategic decision-making..</h3>
+<h3 align="center">Data Analyst with a strong foundation in mathematics, statistics, and business intelligence. Experienced in sales,
+marketing, and e-commerce analysis, with hands-on expertise in Python, SQL, Power BI, and Excel.
+Skilled in transforming raw data into actionable insights, building dashboards, and supporting strategic
+decisions. Passionate about continuous learning and automation..</h3>
 <h2> Let's connect and explore how I can help you achieve data-driven insights and transformative business outcomes. </h2>
 <br>
 <img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 200px/>
@@ -19,7 +19,12 @@ intelligence tools, and statistical analysis to support strategic decision-makin
 - Pure Mathematics & Computer Science - Ain Shams University (2020)
 
 ## 💼 EXPERIENCE
-### Sales Analyst – Rashideen Egypt for Trade Company November 2024 – Present
+### Data Analyst – Boslat (Saudi Arabia Remotely from Egypt) October 2025 – Present
+- Automating financial workflows and improving reporting accuracy with Python and Excel.
+- Designing audience-centric dashboards in Power BI to enhance decision-making.
+- Collaborating with cross-functional teams to align data solutions with business goals.
+- Leading initiatives to replace external consultants through scalable internal solutions.
+### Sales Analyst – Rashideen Egypt for Trade Company November 2024 – October 2025
 - Analyzing sales data to identify trends and optimize commercial performance.
 - Evaluating product performance and sales rates based on KPIs (Sales Growth Rate, Conversion Rate, AOV,
 Demand Forecasting).
